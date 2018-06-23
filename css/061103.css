@@ -1,0 +1,64 @@
+header{
+    background-image: url("../image/1.png");
+    background-position: top center;
+    background-size: cover;
+    width: 100vw;
+    height: 6.62rem;
+}
+.s0{
+    background: #ff8a00;
+    width: 100vw;
+}
+.f1 h1{
+    font-size: 0.34rem;
+    color: greenyellow;
+    margin: 0.35rem 0 0.38rem;
+}
+.img3{
+    background: url("../image/3.png");
+    background-size: cover;
+    width: 3.45rem;
+    height: 3.41rem;
+    padding: 0.2rem;
+}
+.img4{
+    width: 2.99rem;
+}
+.f1 h2{
+    font-size: 0.26rem;
+    color: white;
+    margin-top: 0.22rem;
+}
+.f2{
+    margin-top: 0.24rem;
+}
+.f2{
+    color: white;
+}
+.f2 i{
+    width: 2.50rem;
+    height: 0.02rem;
+    background: white;
+}
+.f2 span{
+    font-size: 0.28rem;
+    margin:0 0.46rem;
+
+}
+.f2 p{
+    font-size:  0.24rem;
+    width: 6.98rem;
+    margin-top: 0.3rem;
+}
+#bt2{
+    width: 6.56rem;
+    height: 0.92rem;
+    border-radius: 46px;
+    line-height: 0.6rem;
+    font-size: 0.3rem;
+    background: #fa0e0a;
+    color: white;
+}
+.btclass{
+    padding: 0.5rem 0;
+}

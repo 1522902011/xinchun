@@ -1,0 +1,104 @@
+header{
+    background-image: url("../image/1.png");
+    background-position: top center;
+    background-size: cover;
+    width: 100vw;
+    height: 6.62rem;
+}
+.s0{
+    background: #ff8a00;
+    width: 100vw;
+}
+.s01{
+    width: 6.56rem;
+    margin-top: 0.22rem;
+
+}
+input{
+    height: 1.00rem;
+    font-size: 0.26rem;
+    border: 1px solid #e3e3e3;
+    border-radius: 10px;
+    padding-left: 0.3rem;
+
+}
+input::-webkit-input-placeholder {
+    color: #b3b3b3;
+    font-size: 0.26rem;
+}
+input:focus{
+    box-shadow: 0 2px 2px rgba(0,0,0,.3);
+}
+#in1{
+    width: 6.56rem;
+    margin-top: 0.4rem;
+
+}
+#in2{
+    flex: 1;
+    margin-bottom: 0.4rem;
+}
+button {
+    background: #ff3522;
+    color: white;
+    font-weight: bold;
+    box-shadow: inset 0 -4px 0 #e32424;
+    text-shadow: 0 2px 2px rgba(255,143,52,.75);
+    white-space: nowrap;
+}
+
+#bt1{
+  width: 1.90rem;
+    height: 1.00rem;
+    border-radius: 10px;
+    line-height: 0.8rem;
+    font-size: 0.28rem;
+    margin-left: 0.26rem;
+    position: relative;
+}
+#bt1:disabled{
+    background: #999999;
+    color: #cccccc;
+    box-shadow: none;
+    text-shadow: none;
+}
+#bt2:disabled{
+    background: #999999;
+    color: #cccccc;
+    box-shadow: none;
+    text-shadow: none;
+}
+.img2{
+    position: absolute;
+    top: 0.08rem;
+    left: 0.08rem;
+    width: 0.3rem;
+}
+#bt2{
+    width: 6.56rem;
+    height: 0.92rem;
+    border-radius: 46px;
+    line-height: 0.6rem;
+    font-size: 0.3rem;
+}
+.f2{
+    margin-top: 0.6rem;
+}
+.f2{
+    color: white;
+}
+.f2 i{
+    width: 2.50rem;
+    height: 0.02rem;
+    background: white;
+}
+.f2 span{
+    font-size: 0.28rem;
+    margin:0 0.46rem;
+
+}
+.f2 p{
+   font-size:  0.24rem;
+    width: 6.98rem;
+    margin-top: 0.3rem;
+}
