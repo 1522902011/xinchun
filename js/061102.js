@@ -3,10 +3,6 @@
  */
 $(function(){
 
-$('#img4').click(function(){
-   window.location.href='061103.html';
-
-});
 
 
 
